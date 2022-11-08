@@ -15,7 +15,7 @@ psycopg2-binary = "^2.9.3"
 fastapi-users = {extras = ["sqlalchemy2"], version = "^9.3.1"}
 asyncpg = "^0.25.0"
 SQLAlchemy = "^1.4.35"
-databases = "^0.5.5"
+databases = "^0.6.2"
 Jinja2 = "^3.1.2"
 
 [tool.poetry.dev-dependencies]
